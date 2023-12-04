@@ -7,4 +7,3 @@ def world():
 
 
 print(f"{hello()} {world()}")
-
